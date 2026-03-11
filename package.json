@@ -1,0 +1,39 @@
+{
+  "name": "stealth-browser-skill",
+  "version": "1.0.0",
+  "description": "A powerful browser automation skill that bypasses anti-automation detection",
+  "main": "lib/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server/relay-server.js",
+    "cli": "node cli/stealth-browser.js",
+    "test": "node --test",
+    "install-extension": "node scripts/install-extension.js"
+  },
+  "keywords": [
+    "browser",
+    "automation",
+    "stealth",
+    "playwright",
+    "cdp",
+    "anti-detection",
+    "ai-agent",
+    "skill"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/stealth-browser-skill.git"
+  },
+  "dependencies": {
+    "playwright-core": "^1.40.0",
+    "ws": "^8.14.0"
+  },
+  "devDependencies": {
+    "@types/ws": "^8.5.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
