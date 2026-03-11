@@ -1,7 +1,7 @@
 ---
 name: stealth-browser
 description: Anti-detection browser automation skill for AI agents. Bypass anti-automation checks with real Chrome browser.
-version: 1.0.0
+version: 1.0.1
 author: shy3130
 license: MIT
 homepage: https://github.com/shy3130/stealth-browser-skill

@@ -1,11 +1,11 @@
 {
   "name": "stealth-browser-skill",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A powerful browser automation skill that bypasses anti-automation detection",
   "main": "lib/index.js",
   "type": "module",
   "scripts": {
-    "start": "node server/relay-server.js",
+    "start": "node cli/stealth-browser.js start",
     "cli": "node cli/stealth-browser.js",
     "test": "node --test",
     "install-extension": "node scripts/install-extension.js"
