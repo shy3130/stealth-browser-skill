@@ -2,6 +2,8 @@
 
 A powerful browser automation skill for AI agents that bypasses anti-automation detection. Based on OpenClaw's browser technology.
 
+[中文文档](README.zh-CN.md) | [English](README.md)
+
 ## 🌟 Features
 
 - ✅ **Bypass Anti-Automation Detection** - Stealth mode enabled
